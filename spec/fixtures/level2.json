@@ -1,0 +1,14 @@
+{
+    "level2": {
+        "selector": ".level-2",
+
+        "level21": "> .level-21"
+    },
+
+    "level2a": {
+        "selector": ".level-2[id={{id}}]",
+
+        "level2a1": "> .level-2a1.{{className}}"
+
+    }
+}

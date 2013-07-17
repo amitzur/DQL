@@ -1,0 +1,13 @@
+{
+    "level3": {
+        "selector": ".level-3[id={{id}}]",
+
+        "level30": "> .level-30",
+
+        "level31": {
+            "selector": "> .level-31.{{className}}",
+
+            "level311": "> .level-311[id={{l3id}}]"
+        }
+    }
+}

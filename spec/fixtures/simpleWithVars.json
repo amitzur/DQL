@@ -1,0 +1,5 @@
+{
+    "simple5": ".level-1#{{id}}",
+    "simple6": ".level-2 > .level-2a1.{{className}}",
+    "simple7": ".level-2#{{id}} > .level-2a1.{{className}}"
+}

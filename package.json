@@ -1,0 +1,25 @@
+{
+    "name": "DQL",
+    "version": "1.0.0",
+    "description": "DQL library",
+    "main": "Gruntfile.js",
+    "directories": {
+        "test": "test"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-jasmine": "~0.5.1",
+        "grunt-contrib-connect": "~0.3.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@git.assembla.com:capriza.5.git"
+    },
+    "author": "Capriza",
+    "readmeFilename": "README.md",
+    "license": "none"
+}

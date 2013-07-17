@@ -1,0 +1,6 @@
+{
+    "simple1": ".level-1",
+    "simple2": ".level-2",
+    "simple3": ".level-1#aaa",
+    "simple4": ".level-3#ddd .level-31.eee > .level-311#fff"
+}

@@ -1,0 +1,11 @@
+{
+    "list": {
+        "selector": ".list[id*={{id}}]",
+
+        "listItems": {
+            "selector": "> ul > li.list-item",
+
+            "selectableInput": "> input[type=radio]"
+        }
+    }
+}
